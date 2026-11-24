@@ -5,7 +5,7 @@
     "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a9/80/a0/a980a0a0-9844-2e04-090f-4b054834d655/Placeholder.mill/400x400Icon.ApSiOS01-75.webp",
     "website": "https://github.com/usecret444-art/LarpApps",
     "sourceURL": "https://raw.githubusercontent.com/usecret444-art/LarpApps/refs/heads/main/source.json",
-    "tintColor": "FFC300",
+    "tintColor": "FD8D5D",
     "featuredApps": [
         "com.chonte.Bofa-38",
         "vip.nabzclan.cashapp.v5cracked-updated"
@@ -17,9 +17,9 @@
             "developerName": "Solans Chezton",
             "version": "3.8",
             "versionDate": "2026-11-24",
-            "versionDescription": "new BofA Design",
+            "versionDescription": "New BofA Design",
             "downloadURL": "https://github.com/usecret444-art/LarpApps/releases/download/Larp_Release/B4nk0fAmer1c4.ipa",
-            "localizedDescription": "this is Larp Version of Bank Of America, Its useful for Tiktok Videos, Larp Screenshots or you can just straight up flexing",
+            "localizedDescription": "this is Fake Version Of BofA, Its useful for Tiktok Videos, Larp Screenshots or you can just straight up Larp flexing (Just Type Anything in Username and password & you're good to go)",
             "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5c/9e/54/5c9e544e-9e8c-1f4c-f501-c5819fc34caa/Placeholder.mill/400x400Icon.ApSiOS01-75.webp",
             "size": 15238839
         },
@@ -27,13 +27,61 @@
             "name": "Cash App",
             "bundleIdentifier": "vip.nabzclan.cashapp.v5cracked-updated",
             "developerName": "Solans Chezton",
-            "version": "9",
+            "version": "9.0",
             "versionDate": "2026-11-24",
             "versionDescription": "Updated CashApp to v9",
             "downloadURL": "https://github.com/usecret444-art/LarpApps/releases/download/Larp_Release/C4shApp.ipa",
             "localizedDescription": "Jay & Nezz CashApp (Keyless)",
             "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c4/26/7b/c4267bd2-f433-e38b-587b-1ffd45360902/Placeholder.mill/400x400Icon.ApSiOS01-75.webp",
             "size": 7918879
+        },
+        {
+            "name": "Chase",
+            "bundleIdentifier": "com.appchase",
+            "developerName": "Solans Chezton",
+            "version": "1.0",
+            "versionDate": "2026-11-24",
+            "versionDescription": "Larp App Released",
+            "downloadURL": "https://github.com/usecret444-art/LarpApps/releases/download/Larp_Release/Ch4se.ipa",
+            "localizedDescription": "Fake Chase Bank App",
+            "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/59/c5/f8/59c5f81d-4ce6-32ef-4ebc-44d27fbc54bf/Placeholder.mill/400x400Icon.ApSiOS01-75.webp",
+            "size": 12784721
+        },
+        {
+            "name": "Wells Fargo",
+            "bundleIdentifier": "com.blz.Wells-Fargo",
+            "developerName": "Solans Chezton",
+            "version": "1.0",
+            "versionDate": "2026-11-24",
+            "versionDescription": "Latest Wells Fargo Updated",
+            "downloadURL": "https://github.com/usecret444-art/LarpApps/releases/download/Larp_Release/W3llsF4rg0.ipa",
+            "localizedDescription": "Fake Wells Fargo by Blz (Key Is blzgotchecks)",
+            "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d4/9d/b2/d49db226-c06c-5f1e-0053-888c61769219/Placeholder.mill/400x400Icon.ApSiOS01-75.webp",
+            "size": 1926391
+        },
+        {
+            "name": "Capital One",
+            "bundleIdentifier": "com.blz.Capital-One",
+            "developerName": "Solans Chezton",
+            "version": "1.0",
+            "versionDate": "2026-11-24",
+            "versionDescription": "Larp App Released",
+            "downloadURL": "https://github.com/usecret444-art/LarpApps/releases/download/Larp_Release/C4p1t4l0ne.ipa",
+            "localizedDescription": "Fake Capital One App by Blz (Key is blzrunscapital)",
+            "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ea/9a/8f/ea9a8f61-530d-dd7f-027e-d29320fb23bc/Placeholder.mill/400x400Icon.ApSiOS01-75.webp",
+            "size": 584614
+        },
+        {
+            "name": "PayPal",
+            "bundleIdentifier": "com.payPal-Prototype. PayPal",
+            "developerName": "Solans Chezton",
+            "version": "1.0",
+            "versionDate": "2026-11-24",
+            "versionDescription": "Larp App Released",
+            "downloadURL": "https://github.com/usecret444-art/LarpApps/releases/download/Larp_Release/P4yP4l.ipa",
+            "localizedDescription": "Fake PayPal App (Just Type Anything in Username and password & you're good to go)",
+            "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/41/72/d1/4172d134-f457-f0be-ca7e-1289d58c6e6e/Placeholder.mill/400x400Icon.ApSiOS01-75.webp",
+            "size": 22644679
         }
     ]
 }
