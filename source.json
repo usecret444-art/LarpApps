@@ -6,7 +6,10 @@
     "website": "https://github.com/usecret444-art/LarpApps",
     "sourceURL": "https://raw.githubusercontent.com/usecret444-art/LarpApps/refs/heads/main/source.json",
     "tintColor": "FFC300",
-    "apps": [
+"featuredApps": [
+        "vip.nabzclan.cashapp.v5cracked-updated"
+    ],
+        "apps": [  
     {
       "name": "BofA",
       "bundleIdentifier": "com.chonte.Bofa-38",
