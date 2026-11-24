@@ -6,33 +6,34 @@
     "website": "https://github.com/usecret444-art/LarpApps",
     "sourceURL": "https://raw.githubusercontent.com/usecret444-art/LarpApps/refs/heads/main/source.json",
     "tintColor": "FFC300",
-   "featuredApps": [
-        "com.chonte.Bofa-38"
+    "featuredApps": [
+        "com.chonte.Bofa-38",
+        "vip.nabzclan.cashapp.v5cracked-updated"
     ], 
-"apps": [ 
-    {
-      "name": "BofA",
-      "bundleIdentifier": "com.chonte.Bofa-38",
-      "developerName": "Solans Chezton",
-      "version": "3.8",
-      "versionDate": "2026-11-24",
-      "versionDescription": "new BofA Design",
-      "downloadURL": "https://github.com/usecret444-art/LarpApps/releases/download/Larp_Release/B4nk0fAmer1c4.ipa",
-      "localizedDescription": "this is Larp Version of Bank Of America, Its useful for Tiktok Videos, Larp Screenshots or you can just straight up flexing",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5c/9e/54/5c9e544e-9e8c-1f4c-f501-c5819fc34caa/Placeholder.mill/400x400Icon.ApSiOS01-75.webp",
-      "size": 15238839
-    }
+    "apps": [ 
+        {
+            "name": "BofA",
+            "bundleIdentifier": "com.chonte.Bofa-38",
+            "developerName": "Solans Chezton",
+            "version": "3.8",
+            "versionDate": "2026-11-24",
+            "versionDescription": "new BofA Design",
+            "downloadURL": "https://github.com/usecret444-art/LarpApps/releases/download/Larp_Release/B4nk0fAmer1c4.ipa",
+            "localizedDescription": "this is Larp Version of Bank Of America, Its useful for Tiktok Videos, Larp Screenshots or you can just straight up flexing",
+            "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5c/9e/54/5c9e544e-9e8c-1f4c-f501-c5819fc34caa/Placeholder.mill/400x400Icon.ApSiOS01-75.webp",
+            "size": 15238839
+        },
+        {
+            "name": "Cash App",
+            "bundleIdentifier": "vip.nabzclan.cashapp.v5cracked-updated",
+            "developerName": "Solans Chezton",
+            "version": "5",
+            "versionDate": "2026-11-24",
+            "versionDescription": "Updated CashApp to v5",
+            "downloadURL": "https://github.com/usecret444-art/LarpApps/releases/download/Larp_Release/C4shApp.ipa",
+            "localizedDescription": "Jay & Nezz CashApp (Keyless)",
+            "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c4/26/7b/c4267bd2-f433-e38b-587b-1ffd45360902/Placeholder.mill/400x400Icon.ApSiOS01-75.webp",
+            "size": 7918879
+        }
     ]
 }
-{
-      "name": "Cash App",
-      "bundleIdentifier": "vip.nabzclan.cashapp.v5cracked-updated",
-      "developerName": "Solans Chezton",
-      "version": "5",
-      "versionDate": "2026-11-24",
-      "versionDescription": "Updated CashApp to v5",
-      "downloadURL": "https://github.com/usecret444-art/LarpApps/releases/download/Larp_Release/C4shApp.ipa",
-      "localizedDescription": "Jay & Nezz CashApp (Keyless)",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c4/26/7b/c4267bd2-f433-e38b-587b-1ffd45360902/Placeholder.mill/400x400Icon.ApSiOS01-75.webp"
-      "size": 7918879
-    }
