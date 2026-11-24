@@ -10,6 +10,7 @@
         "com.chonte.Bofa-38",
         "com.kzizi.xs.p2p.final.Cash-APP",
         "com.appchase"
+        "com.blz.Wells-Fargo"
     ], 
     "apps": [ 
         {
@@ -78,9 +79,9 @@
             "developerName": "Solans Chezton",
             "version": "1.0",
             "versionDate": "2026-11-24",
-            "versionDescription": "Larp App Released",
+            "versionDescription": "Updated to New v2 UI",
             "downloadURL": "https://github.com/usecret444-art/LarpApps/releases/download/Larp_Release/Ch1me.ipa",
-            "localizedDescription": "Larp App Released",
+            "localizedDescription": "Fake Chime App",
             "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/82/78/9d/82789dbb-6f1d-2c76-54cb-901741c99b41/Placeholder.mill/400x400Icon.ApSiOS01-75.webp",
             "size": 2596177
         },
