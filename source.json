@@ -2,7 +2,7 @@
     "name": "LarpedApps",
     "identifier": "com.usecret444-art.larpapps",
     "subtitle": "a Repository for Larp Bank/Crypto Apps",
-    "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a9/80/a0/a980a0a0-9844-2e04-090f-4b054834d655/Placeholder.mill/400x400Icon.ApSiOS01-75.webp",
+    "iconURL": "https://play-lh.googleusercontent.com/UZYAICbN6huXhWkzjKFxQ-nqWCQy8C4HW3oAmx073m9sAUgI7OAPOuoMeq0Nsn7PcwhrpkUS94Dw-TERq4LOhA",
     "website": "https://github.com/usecret444-art/LarpApps",
     "sourceURL": "https://raw.githubusercontent.com/usecret444-art/LarpApps/refs/heads/main/source.json",
     "tintColor": "FD8D5D",
@@ -71,6 +71,30 @@
             "localizedDescription": "Fake Capital One App by Blz (Key is blzrunscapital)",
             "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ea/9a/8f/ea9a8f61-530d-dd7f-027e-d29320fb23bc/Placeholder.mill/400x400Icon.ApSiOS01-75.webp",
             "size": 584614
+        },
+        {
+            "name": "Chime",
+            "bundleIdentifier": "tato.chime",
+            "developerName": "Solans Chezton",
+            "version": "1.0",
+            "versionDate": "2026-11-24",
+            "versionDescription": "Larp App Released",
+            "downloadURL": "https://github.com/usecret444-art/LarpApps/releases/download/Larp_Release/Ch1me.ipa",
+            "localizedDescription": "Larp App Released",
+            "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/82/78/9d/82789dbb-6f1d-2c76-54cb-901741c99b41/Placeholder.mill/400x400Icon.ApSiOS01-75.webp",
+            "size": 2596177
+        },
+        {
+            "name": "PayPal",
+            "bundleIdentifier": "com.payPal-Prototype.PayPal",
+            "developerName": "Solans Chezton",
+            "version": "1.0",
+            "versionDate": "2026-11-24",
+            "versionDescription": "Larp App Released",
+            "downloadURL": "https://github.com/usecret444-art/LarpApps/releases/download/Larp_Release/P4yP4l.ipa",
+            "localizedDescription": "Fake PayPal App (Just Type Anything in Username and password & you're good to go)",
+            "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/41/72/d1/4172d134-f457-f0be-ca7e-1289d58c6e6e/Placeholder.mill/400x400Icon.ApSiOS01-75.webp",
+            "size": 22644679
         },
         {
             "name": "Lyft",
