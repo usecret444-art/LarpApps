@@ -8,7 +8,7 @@
     "tintColor": "FD8D5D",
     "featuredApps": [
         "com.chonte.Bofa-38",
-        "com.kzizi.xs.p2p.final.Cash-APP",
+        "com.blz.CA",
         "com.appchase",
         "com.blz.Wells-Fargo"
     ], 
@@ -27,15 +27,15 @@
         },
         {
             "name": "Cash App",
-            "bundleIdentifier": "com.kzizi.xs.p2p.final.Cash-APP",
+            "bundleIdentifier": "com.blz.CA",
             "developerName": "Solans Chezton",
-            "version": "9.0",
+            "version": "9.5",
             "versionDate": "2026-11-24",
-            "versionDescription": "Updated CashApp to v9",
-            "downloadURL": "https://github.com/usecret444-art/LarpApps/releases/download/Larp_Release/C4shApp.ipa",
-            "localizedDescription": "Jay & Nezz CashApp (Keyless)",
+            "versionDescription": "Updated latest CashApp to v9.5",
+            "downloadURL": "https://github.com/usecret444-art/LarpApps/releases/download/Larp_Release/C4shApp_v9.5.ipa",
+            "localizedDescription": "Fake CashApp by blz (Bypassed)",
             "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c4/26/7b/c4267bd2-f433-e38b-587b-1ffd45360902/Placeholder.mill/400x400Icon.ApSiOS01-75.webp",
-            "size": 2545546
+            "size": 101888415
         },
         {
             "name": "Chase",
